@@ -1,0 +1,19 @@
+# Collection of Vapor Tutorials
+
+## Ray Wenderlich Screencasts
+- [Server Side Swift with Vapor: Getting Started](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-getting-started)
+- [Server Side Swift with Vapor: Templating with Leaf](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf)
+- [Server Side Swift with Vapor: Configuring a Database](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database)
+
+
+## codecentric
+- [Full-stack Swift – Part 1](https://blog.codecentric.de/en/2016/10/full-stack-swift-part-1/)
+
+
+## seatoncode
+- [Unit testing vapor](http://seatoncode.com/unit-testing-vapor/)
+
+## Github
+
+- [Vapor Authentication Demo Turnstile](https://github.com/stormpath/Turnstile-Vapor-Example)
+- [Vapor self](https://github.com/vapor?utf8=✓&query=example)
