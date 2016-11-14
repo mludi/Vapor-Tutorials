@@ -5,6 +5,7 @@
 - [Server Side Swift with Vapor: Templating with Leaf](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf)
 - [Server Side Swift with Vapor: Configuring a Database](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database)
 - [Server Side Swift with Vapor: Persisting Models](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models)
+- [Server Side Swift with Vapor: CRUD Database Options](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options)
 
 
 ## codecentric
