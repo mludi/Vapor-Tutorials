@@ -6,6 +6,7 @@
 - [Server Side Swift with Vapor: Configuring a Database](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database)
 - [Server Side Swift with Vapor: Persisting Models](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models)
 - [Server Side Swift with Vapor: CRUD Database Options](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options)
+- [Server Side Swift with Vapor: Deploying to Heroku with PostgreSQL](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql)
 
 
 ## codecentric
