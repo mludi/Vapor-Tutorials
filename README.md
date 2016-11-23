@@ -8,6 +8,7 @@
 - [Server Side Swift with Vapor: CRUD Database Options](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options)
 - [Server Side Swift with Vapor: Deploying to Heroku with PostgreSQL](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql)
 - [Server Side Swift with Vapor: Basic Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-controllers)
+- [Server Side Swift with Vapor: RESTful Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-restful-controllers)
 
 
 
